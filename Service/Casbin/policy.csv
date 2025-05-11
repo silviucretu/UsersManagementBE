@@ -1,0 +1,4 @@
+p, admin, tenant1, /api/users, GET
+p, editor, tenant2, /api/users, POST
+p, viewer, tenant1, /api/reports, GET
+p, Role1, tenant1, /api/hello/Authenticated, GET
